@@ -58,10 +58,10 @@
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="pBg-XT-Z5a" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="DWI-dh-gBa"/>
-                            <constraint firstItem="pBg-XT-Z5a" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="F92-CJ-ZNQ"/>
-                            <constraint firstAttribute="bottom" secondItem="pBg-XT-Z5a" secondAttribute="bottom" id="H0V-jm-Dod"/>
-                            <constraint firstAttribute="trailing" secondItem="pBg-XT-Z5a" secondAttribute="trailing" id="Jbq-GL-nJk"/>
+                            <constraint firstAttribute="trailing" secondItem="pBg-XT-Z5a" secondAttribute="trailing" id="38W-EC-Bn4"/>
+                            <constraint firstAttribute="bottom" secondItem="pBg-XT-Z5a" secondAttribute="bottom" id="GLu-w2-rWC"/>
+                            <constraint firstItem="pBg-XT-Z5a" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="VTT-fa-nI0"/>
+                            <constraint firstItem="pBg-XT-Z5a" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="jPt-id-ftf"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
